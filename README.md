@@ -1,8 +1,8 @@
 # EXPERIMENT-03-DEVELOPING-COUNTER-LADDER-LOGIC-FOR-PLC
-### NAME: Prabha C
-### REGISTER NUMBER: 212222110032
-### DEPARTMENT: CSE(IOT)
-### YEAR: IV
+### NAME: HEMAPRIYAN.P
+### REGISTER NUMBER: 212224040116
+### DEPARTMENT: CSE
+### YEAR: II
 
 ## Aim:
 To understand and implement various counter operations in Programmable Logic Controller (PLC) ladder logic.
